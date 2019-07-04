@@ -1,0 +1,7 @@
+C:\Users\info3\source\repos\北市賽107\problemD\bin\Debug\problemD.exe.config
+C:\Users\info3\source\repos\北市賽107\problemD\bin\Debug\problemD.exe
+C:\Users\info3\source\repos\北市賽107\problemD\bin\Debug\problemD.pdb
+C:\Users\info3\source\repos\北市賽107\problemD\obj\Debug\problemD.csproj.CoreCompileInputs.cache
+C:\Users\info3\source\repos\北市賽107\problemD\obj\Debug\problemD.exe
+C:\Users\info3\source\repos\北市賽107\problemD\obj\Debug\problemD.pdb
+C:\Users\info3\source\repos\北市賽107\problemD\obj\Debug\problemD.csprojResolveAssemblyReference.cache

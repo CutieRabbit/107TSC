@@ -1,0 +1,10 @@
+C:\Users\info3\source\repos\北市賽107\problemA\bin\Debug\problemA.exe.config
+C:\Users\info3\source\repos\北市賽107\problemA\bin\Debug\problemA.exe
+C:\Users\info3\source\repos\北市賽107\problemA\bin\Debug\problemA.pdb
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.csprojResolveAssemblyReference.cache
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.Form1.resources
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.Properties.Resources.resources
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.csproj.GenerateResource.Cache
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.csproj.CoreCompileInputs.cache
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.exe
+C:\Users\info3\source\repos\北市賽107\problemA\obj\Debug\problemA.pdb
